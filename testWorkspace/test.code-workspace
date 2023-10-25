@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "rootFolder1"
+		},
+		{
+			"path": "rootFolder2"
+		}
+	],
+	"settings": {
+		"workbench.iconTheme": "vs-foo"
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "name": "icon-theme-test2",
+  "displayName": "icon-theme-test2",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vs-foo",
+        "label": "Foo icon theme",
+        "path": "./icon-theme.json"
+      }
+    ]
+  }
+}
